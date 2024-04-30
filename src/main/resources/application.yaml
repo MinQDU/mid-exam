@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mid-exam
+swagger:
+  url: http://localhost:80080
+  description: Local Server
